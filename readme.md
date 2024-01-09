@@ -1,6 +1,3 @@
-Here's an updated README file for our project, sprinkled with emojis:
-
----
 
 # SmileLine Full-Stack Website 🌐
 
