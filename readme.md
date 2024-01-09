@@ -4,7 +4,7 @@ Here's an updated README file for our project, sprinkled with emojis:
 
 # SmileLine Full-Stack Website 🌐
 
-Welcome to the SmileLine Full-Stack Website repository! This project was developed during an internship at SmileLine by Me and Shreeyash Garde. This full-stack website encompasses an array of functionalities and features a robust tech stack.
+Welcome to the SmileLine Full-Stack Website repository! This project was developed during an internship at SmileLine by Me and Pranav Khandagale. This full-stack website encompasses an array of functionalities and features a robust tech stack.
 
 ## Overview 🚀
 
